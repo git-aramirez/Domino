@@ -1,9 +1,9 @@
 # Domino
 
-##Language
+## Language
 English
 
-##Clean Architecture
+## Clean Architecture
 Hexagonal Architecture
 
 ## Frameworks
