@@ -22,8 +22,8 @@ password: An#er32345InAsFd$
 
 ## Steps for Run project
 1) Open Visual Studio Code or your development enviroment and clone this repository
-2) execute the command "npm install"
-3) if the libraries aren't included then run "npm install" so execute the following commands:
+2) Execute the command "npm install"
+3) If the libraries aren't included then run "npm install" so execute the following commands:
 
 - "npm i antd"
 - "npm i base-64"
@@ -31,7 +31,7 @@ password: An#er32345InAsFd$
 4) Now, you can run to project on Dominio
 5) If you want to send request on the application through Postman, do not forget the credential with Basic Authentication
 
-##Endpoint Resolve
+## Endpoint Resolve
 type: POST
 url: http://localhost:5165/api/domino
 
