@@ -1,0 +1,41 @@
+﻿.p-body {
+    font-size: 17px;
+}
+
+.p-value-body {
+    margin-left: 100px;
+    margin-right: 100px;
+    font-size: 17px;
+}
+
+.row-body {
+    margin-top: 100px;
+    text-align: center;
+}
+
+.button-resolve {
+    margin-left: 20px;
+}
+
+.button-add{
+    background: #0BDA51;
+    margin-left: 20px;
+}
+
+.input-second {
+    width: 140px;
+    margin-left: 20px;
+}
+
+.input-first{
+    width: 140px;
+}
+
+.row-head {
+    margin-top: 90px;
+}
+
+.layout {
+    background: transparent;
+    min-height: 100vh;
+}
