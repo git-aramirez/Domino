@@ -16,14 +16,14 @@ Credentials:
 UserName: ander@inalambria.com
 password: An#er32345InAsFd$
 
-##Libreries
+## Libraries
 1) Antd
 2) base-64
 
 ## Steps for Run project
 1) Open Visual Studio Code or your development enviroment and clone this repository
 2) execute the command "npm install"
-3) if the libreries aren't included then run "npm install" so execute the following commands:
+3) if the libraries aren't included then run "npm install" so execute the following commands:
 
 - "npm i antd"
 - "npm i base-64"
